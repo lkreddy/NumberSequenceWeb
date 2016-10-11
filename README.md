@@ -1,0 +1,2 @@
+# NumberSequenceWeb
+Number Sequence Generator
